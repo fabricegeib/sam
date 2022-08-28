@@ -44,7 +44,7 @@ body {
 }
 
 .nav_item:not(:last-of-type) {
-	margin-right: 1em;
+	margin-right: 3em;
 }
 
 .nav_item a {
