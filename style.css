@@ -168,8 +168,12 @@ body {
 
 @media screen and (max-width: 1000px) {
   #main {
-    width: 100%;
+    width: auto;
     margin: 0 24px;
+  }
+
+  .article_content {
+    flex-direction: column;
   }
 }
 
