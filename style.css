@@ -196,6 +196,7 @@ body {
 		overflow-x: auto;
 		-webkit-overflow-scrolling: touch;
 		-ms-overflow-style: -ms-autohiding-scrollbar;
+		padding: 24px 12px;
 	}
 
 	#nav::-webkit-scrollbar {
