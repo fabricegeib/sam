@@ -27,7 +27,9 @@ body {
 	align-self: center;
 }
 
-#logo {}
+#logo {
+	font-weight: 600;
+}
 
 #nav {
 	padding: 24px;
@@ -56,6 +58,7 @@ body {
 .nav_item span {
 	display: block;
 	font-size: 0.666em;
+	font-weight: 500;
 }
 
 #contact {
