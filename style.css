@@ -27,6 +27,11 @@ body {
 	align-self: center;
 }
 
+#title a {
+	color: #000000;
+	text-decoration: none;
+}
+
 #logo {
 	font-weight: 600;
 }
