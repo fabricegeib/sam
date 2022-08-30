@@ -151,6 +151,12 @@ body {
 	margin-bottom: 24px;
 }
 
+#title_404 {
+	font-size: 8em;
+	padding: 1em 0;
+	margin-bottom: 24px;
+}
+
 #footer {
 	background-color: #171717;
 	color: #ffffff;
@@ -208,7 +214,7 @@ body {
 	}
 
 	.nav_item:not(:last-of-type) {
-		margin-right: 2em;
+		margin-right: 18px;
 	}
 
 	#contact {
