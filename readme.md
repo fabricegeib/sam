@@ -8,6 +8,10 @@ https://github.com/fabricegeib/sam/tree/sam001
 
 ## sam002
 
+#### Ressources
+
+https://www.tumblr.com/docs/fr/custom_themes
+
 #### Inspirations
 
 https://themes.stashfamily.com/themes/ten-toes/
